@@ -1,2 +1,3 @@
-# Andmebaasid
-Database
+# Andmebaasid/Database
+
+Aine Andmebaasid II rühmatöö failid.
